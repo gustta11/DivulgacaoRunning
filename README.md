@@ -7,7 +7,6 @@
 - Bootstrap
 - HTML
 - CSS
-- JavaScript
 - Php
 - O **Php** foi utilizado com o objetivo de criar a configuração adequada para envio de e-mail, utilizando um servidor disponibilizado pelo professor Marcos Vinícius do Senai-Alagoinhas
 
